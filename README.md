@@ -1,5 +1,5 @@
 <h1 align="left">Clone da página inicial da Netflix</h1>
-<p align="left">Projeto do Bootcamp do Carrefour</p>
+<h3 align="left">Projeto do Bootcamp do Carrefour</h3>
 
 <p align="left">
  <a href="#status">Status</a> •
@@ -16,7 +16,7 @@
 </h3>
 
 <h1 align="left" id="acessar">👆 Como acessar</h1>
-Para acessar o sistema online bastar clicar no seguinte link: ---
+Para acessar a página bastar clicar no seguinte link: ---
 
 <h1 align="left" id="funcionalidades">⚙️ Funcionalidades</h1>
 
