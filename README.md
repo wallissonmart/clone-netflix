@@ -25,6 +25,7 @@ Para acessar a página bastar clicar no seguinte link: ---
 <h1 align="left" id="tecnologias">🛠️ Técnicas e tecnologias utilizadas</h1>
 
 - [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+- [jQuery](https://api.jquery.com/)
 
 <h1 align="left" id="autor">✍️ Autor</h1>
 <a href="https://github.com/wallissonmart">
