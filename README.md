@@ -1,5 +1,5 @@
 <h1 align="left">Clone da página inicial da Netflix</h1>
-<h3 align="left">Projeto do Bootcamp do Carrefour</h3>
+<p align="left">Projeto do Bootcamp do Carrefour</p>
 
 <p align="left">
  <a href="#status">Status</a> •
@@ -12,7 +12,7 @@
 <h1 align="left" id="status">❔ Status</h1>
 
 <h3 align="left"> 
- 🚧 Em construção... 🚧
+  ✔️ Finalizado ✔️
 </h3>
 
 <h1 align="left" id="acessar">👆 Como acessar</h1>
