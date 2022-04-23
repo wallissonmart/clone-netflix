@@ -1,5 +1,5 @@
 <h1 align="left">Clone da página inicial da Netflix</h1>
-<p align="left">Projeto do Bootcamp do Carrefour</p>
+<p align="left">Projeto para o Bootcamp Carrefour</p>
 
 <p align="left">
  <a href="#status">Status</a> •
